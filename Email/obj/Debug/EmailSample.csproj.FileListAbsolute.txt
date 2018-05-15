@@ -1,0 +1,15 @@
+c:\users\v-naver\documents\visual studio 2015\Projects\Email\Email\bin\Debug\Email.exe.config
+c:\users\v-naver\documents\visual studio 2015\Projects\Email\Email\bin\Debug\Email.exe
+c:\users\v-naver\documents\visual studio 2015\Projects\Email\Email\bin\Debug\Email.pdb
+c:\users\v-naver\documents\visual studio 2015\Projects\Email\Email\bin\Debug\AE.Net.Mail.dll
+c:\users\v-naver\documents\visual studio 2015\Projects\Email\Email\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.dll
+c:\users\v-naver\documents\visual studio 2015\Projects\Email\Email\bin\Debug\OpenPop.dll
+c:\users\v-naver\documents\visual studio 2015\Projects\Email\Email\bin\Debug\TestToolsToXunitProxy.dll
+c:\users\v-naver\documents\visual studio 2015\Projects\Email\Email\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+c:\users\v-naver\documents\visual studio 2015\Projects\Email\Email\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.ExtensionUtilities.dll
+c:\users\v-naver\documents\visual studio 2015\Projects\Email\Email\bin\Debug\AE.Net.Mail.pdb
+c:\users\v-naver\documents\visual studio 2015\Projects\Email\Email\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.xml
+c:\users\v-naver\documents\visual studio 2015\Projects\Email\Email\bin\Debug\OpenPop.xml
+c:\users\v-naver\documents\visual studio 2015\Projects\Email\Email\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.xml
+c:\users\v-naver\documents\visual studio 2015\Projects\Email\Email\obj\Debug\Email.exe
+c:\users\v-naver\documents\visual studio 2015\Projects\Email\Email\obj\Debug\Email.pdb
