@@ -8,6 +8,7 @@ namespace EmailSample
 {
     public class EmailConfiguration
     {
+		
         public System.Guid ID { get; set; }
         public System.Guid PersonnelKey { get; set; }
         public string EmailAddress { get; set; }

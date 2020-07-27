@@ -11,6 +11,8 @@ namespace EmailSample
         static void Main(string[] args)
         {
 			-- This is main method
+			-- One more comment
+			-- Sample commit
             Email email = new Email("SampleEmail78945", "infy@123$%^");
             var allemails = email.ReceiveMails();
 
